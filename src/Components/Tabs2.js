@@ -15,6 +15,7 @@ const tabs = [
   }
   
   export default function Tabs() {
+
     return (
       <div className="pt-6 pb-2">
         <div className="sm:hidden">
