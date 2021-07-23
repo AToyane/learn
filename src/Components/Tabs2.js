@@ -8,6 +8,7 @@ const tabs = [
     { name: 'Budgets', href: '#', current: false },
     { name: 'Terms', href: '#', current: false },
     { name: 'Workflow' , href: '#', current: false },
+    { name: 'My new tab' , href: '#', current: false }
   ]
   
   function classNames(...classes) {
